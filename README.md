@@ -1,2 +1,2 @@
-# project_-
+# project_movie
 영화예매사이트 프로젝트
