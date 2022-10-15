@@ -17,7 +17,7 @@
 
 		//** MVC 프로젝트에서는 index.jsp 페이지 외 절대로 .jsp페이지 실행금지
 		// => 주소창에 .jsp 주소가 보이면 MVC패턴 깨짐
-
+ 
 		// response.sendRedirect("./Test.bo");
 
 		// 글쓰기 페이지 이동
