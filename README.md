@@ -49,9 +49,9 @@
     * 마이페이지
         * 예매 내역, 포인트 적립, 사용 내역 조회.
         * 회원 정보 수정, 탈퇴.
-        <img src="https://user-images.githubusercontent.com/115868277/197092937-f3d9a938-1c41-45d6-b118-7916e4167330.png" width="300" height="400">
-        <img src="https://user-images.githubusercontent.com/115868277/197092954-f1767f62-f876-4ec0-89b5-f8f0d71684b9.png" width="300" height="400">
-        <img src="https://user-images.githubusercontent.com/115868277/197092945-cb9f49a7-d021-4178-9d11-93126a2d2563.png" width="300" height="400">
+        <img src="https://user-images.githubusercontent.com/115868277/197092937-f3d9a938-1c41-45d6-b118-7916e4167330.png" width="200" height="300">
+        <img src="https://user-images.githubusercontent.com/115868277/197092954-f1767f62-f876-4ec0-89b5-f8f0d71684b9.png" width="200" height="300">
+        <img src="https://user-images.githubusercontent.com/115868277/197092945-cb9f49a7-d021-4178-9d11-93126a2d2563.png" width="200" height="300">
         
 
 <br>
@@ -64,8 +64,8 @@
    * 영화 리뷰
       * 리뷰 작성, 리뷰작성 시 포인트 지급.
       * 예매 여부에 따라 리뷰입력 제어.
-      <img src="https://user-images.githubusercontent.com/115868277/197093448-e3fc0301-a53e-4c36-a701-9ddaec7ff3e5.png" width="450" height="400">
-      <img src="https://user-images.githubusercontent.com/115868277/197093451-31db0632-cf3c-4206-8c86-943319153136.png" width="450" height="400">
+      <img src="https://user-images.githubusercontent.com/115868277/197093448-e3fc0301-a53e-4c36-a701-9ddaec7ff3e5.png" width="300" height="300">
+      <img src="https://user-images.githubusercontent.com/115868277/197093451-31db0632-cf3c-4206-8c86-943319153136.png" width="300" height="300">
       
 
 <br>
