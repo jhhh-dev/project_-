@@ -20,7 +20,7 @@
 
 
 ## 1. 설계 단계
-1. 요구사할 분석 및 설계
+1. 요구사 분석 및 설계
    ![Untitled](https://user-images.githubusercontent.com/115868277/197087098-04ae9234-4383-42e3-aee9-bc9a0b192322.png)
 <br>
 <br>
