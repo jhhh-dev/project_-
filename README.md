@@ -80,8 +80,8 @@
         * 예매 정보 확인 및 포인트 사용.
         * 예매 동기화 제어.
         * 결제 API - 아임포트.
-        <img src="https://user-images.githubusercontent.com/115868277/197094076-1ef06392-dc1c-4a92-ba49-9b132b7fc3e1.png" width="900" height="250">  
-        <img src="https://user-images.githubusercontent.com/115868277/197094069-8827c6ca-7185-48f0-92e2-394304e69bfa.png" width="900" height="300">     
-        <img src="https://user-images.githubusercontent.com/115868277/197094082-0ee3bb38-abd4-4237-8d10-be01f1d62266.png" width="900" height="300">   
+        <img src="https://user-images.githubusercontent.com/115868277/197094076-1ef06392-dc1c-4a92-ba49-9b132b7fc3e1.png" width="900" height="200">  
+        <img src="https://user-images.githubusercontent.com/115868277/197094069-8827c6ca-7185-48f0-92e2-394304e69bfa.png" width="900" height="250">     
+        <img src="https://user-images.githubusercontent.com/115868277/197094082-0ee3bb38-abd4-4237-8d10-be01f1d62266.png" width="900" height="250">   
     
    
