@@ -9,37 +9,16 @@
   
     
 #### 목차
-1. 설계 단계
-    - 요구사항 분석 및 설계
-    - 테이블 정의서(디비 설계)
-    - ERD 다이어그램
-2. 주요 기능
+1. 주요 기능
     * 회원 관리
     * 영화 정보
     * 예매 및 결제
 
-
-## 1. 설계 단계
-1. 요구사항 분석 및 설계
-   ![Untitled](https://user-images.githubusercontent.com/115868277/197087098-04ae9234-4383-42e3-aee9-bc9a0b192322.png)
-<br>
-<br>
-
-2. 테이블 정의서 (디비 설계)
-   ![Untitled (1)](https://user-images.githubusercontent.com/115868277/197088520-204d47ee-4a7e-4bf9-a76a-59ea0a0305a2.png)
-<br>
-<br>
-
-3. ERD 다이어그램   
-    ![Untitled (2)](https://user-images.githubusercontent.com/115868277/197088825-e01476bf-c1e4-4c6e-8178-3b18bb1ec01a.png)
-    
-    
-<br>
 <br>  
 <br>  
 <br>  
 
-## 2. 주요 기능
+## 1. 주요 기능
 1. 회원 관리  
     * 회원 가입
         * AJAX를 이용한 아이디, 전화번호 유효성 검사.
